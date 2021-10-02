@@ -1,2 +1,0 @@
-# provaAV1_web_dados
-PROVA DE DESENVOLVIMENTO WEB E DADOS
